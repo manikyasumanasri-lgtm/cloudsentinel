@@ -1,0 +1,38 @@
+ <div class="auth-panel">
+    <div class="auth-header">
+      <div class="auth-shield"><i class="fa-solid fa-shield-halved"></i></div>
+      <div class="auth-title">CLOUD·SENTINEL</div>
+      <div class="auth-sub">SECURE ACCESS TERMINAL</div>
+    </div>
+
+    <div class="auth-body">
+      {% for cat, msg in get_flashed_messages(with_categories=true) %}
+      <div class="auth-alert {{ cat }}">
+        <i class="fa-solid fa-triangle-exclamation"></i> {{ msg }}
+      </div>
+      {% endfor %}
+
+      <form method="POST" action="{{ url_for('login') }}">
+        <div class="field">
+          <div class="field-label"><i class="fa-solid fa-user"></i>OPERATOR ID</div>
+          <input type="text" class="field-input" name="username"
+                 placeholder="enter username" autocomplete="off" required autofocus/>
+        </div>
+        <div class="field">
+          <div class="field-label"><i class="fa-solid fa-key"></i>ACCESS CODE</div>
+          <input type="password" class="field-input" name="password"
+                 placeholder="••••••••••" required/>
+        </div>
+        <button type="submit" class="btn-auth">
+          <i class="fa-solid fa-right-to-bracket"></i> &nbsp;AUTHENTICATE
+        </button>
+      </form>
+
+      <div class="auth-footer">
+        No account?
+        <a href="{{ url_for('register') }}">REQUEST ACCESS →</a>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
