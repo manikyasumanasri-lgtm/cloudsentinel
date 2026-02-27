@@ -1,0 +1,382 @@
+{
+  "bucket": "cloud-sentinel-snapshots",
+  "region": "ap-south-2",
+  "total_files": 47,
+  "folders": {
+    "www.amazon.com": 14,
+    "www.flipkart.com": 9,
+    "www.github.com": 8,
+    "www.stackoverflow.com": 8,
+    "www.wikipedia.org": 8
+  },
+  "snapshots": [
+    {
+      "site": "https://www.amazon.com",
+      "key": "snapshots/www.amazon.com/amazon_20250714_0942.html",
+      "filename": "amazon_20250714_0942.html",
+      "status_code": 200,
+      "timestamp": "2025-07-14T09:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.amazon.com",
+      "key": "snapshots/www.amazon.com/amazon_20250714_0937.html",
+      "filename": "amazon_20250714_0937.html",
+      "status_code": 200,
+      "timestamp": "2025-07-14T09:37:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.amazon.com",
+      "key": "snapshots/www.amazon.com/amazon_20250714_0932.html",
+      "filename": "amazon_20250714_0932.html",
+      "status_code": 200,
+      "timestamp": "2025-07-14T09:32:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.amazon.com",
+      "key": "snapshots/www.amazon.com/amazon_20250714_0927.html",
+      "filename": "amazon_20250714_0927.html",
+      "status_code": 200,
+      "timestamp": "2025-07-14T09:27:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.amazon.com",
+      "key": "snapshots/www.amazon.com/amazon_20250714_0922.html",
+      "filename": "amazon_20250714_0922.html",
+      "status_code": 200,
+      "timestamp": "2025-07-14T09:22:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.amazon.com",
+      "key": "snapshots/www.amazon.com/amazon_20250714_0622.html",
+      "filename": "amazon_20250714_0622.html",
+      "status_code": 200,
+      "timestamp": "2025-07-14T06:22:00Z",
+      "checksum_match": false
+    },
+    {
+      "site": "https://www.amazon.com",
+      "key": "snapshots/www.amazon.com/amazon_20250714_0342.html",
+      "filename": "amazon_20250714_0342.html",
+      "status_code": 200,
+      "timestamp": "2025-07-14T03:42:00Z",
+      "checksum_match": false
+    },
+    {
+      "site": "https://www.amazon.com",
+      "key": "snapshots/www.amazon.com/amazon_20250714_0242.html",
+      "filename": "amazon_20250714_0242.html",
+      "status_code": 301,
+      "timestamp": "2025-07-14T02:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.amazon.com",
+      "key": "snapshots/www.amazon.com/amazon_20250714_0142.html",
+      "filename": "amazon_20250714_0142.html",
+      "status_code": 200,
+      "timestamp": "2025-07-14T01:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.amazon.com",
+      "key": "snapshots/www.amazon.com/amazon_20250713_2142.html",
+      "filename": "amazon_20250713_2142.html",
+      "status_code": 200,
+      "timestamp": "2025-07-13T21:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.amazon.com",
+      "key": "snapshots/www.amazon.com/amazon_20250713_1142.html",
+      "filename": "amazon_20250713_1142.html",
+      "status_code": 200,
+      "timestamp": "2025-07-13T11:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.amazon.com",
+      "key": "snapshots/www.amazon.com/amazon_20250713_0942.html",
+      "filename": "amazon_20250713_0942.html",
+      "status_code": 200,
+      "timestamp": "2025-07-13T09:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.amazon.com",
+      "key": "snapshots/www.amazon.com/amazon_20250712_2142.html",
+      "filename": "amazon_20250712_2142.html",
+      "status_code": 200,
+      "timestamp": "2025-07-12T21:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.amazon.com",
+      "key": "snapshots/www.amazon.com/amazon_20250712_0942.html",
+      "filename": "amazon_20250712_0942.html",
+      "status_code": 200,
+      "timestamp": "2025-07-12T09:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.flipkart.com",
+      "key": "snapshots/www.flipkart.com/flipkart_20250714_0942.html",
+      "filename": "flipkart_20250714_0942.html",
+      "status_code": 500,
+      "timestamp": "2025-07-14T09:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.flipkart.com",
+      "key": "snapshots/www.flipkart.com/flipkart_20250714_0912.html",
+      "filename": "flipkart_20250714_0912.html",
+      "status_code": 500,
+      "timestamp": "2025-07-14T09:12:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.flipkart.com",
+      "key": "snapshots/www.flipkart.com/flipkart_20250714_0842.html",
+      "filename": "flipkart_20250714_0842.html",
+      "status_code": 500,
+      "timestamp": "2025-07-14T08:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.flipkart.com",
+      "key": "snapshots/www.flipkart.com/flipkart_20250714_0447.html",
+      "filename": "flipkart_20250714_0447.html",
+      "status_code": 503,
+      "timestamp": "2025-07-14T04:47:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.flipkart.com",
+      "key": "snapshots/www.flipkart.com/flipkart_20250714_0142.html",
+      "filename": "flipkart_20250714_0142.html",
+      "status_code": 200,
+      "timestamp": "2025-07-14T01:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.flipkart.com",
+      "key": "snapshots/www.flipkart.com/flipkart_20250713_1947.html",
+      "filename": "flipkart_20250713_1947.html",
+      "status_code": 500,
+      "timestamp": "2025-07-13T19:47:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.flipkart.com",
+      "key": "snapshots/www.flipkart.com/flipkart_20250713_0942.html",
+      "filename": "flipkart_20250713_0942.html",
+      "status_code": 200,
+      "timestamp": "2025-07-13T09:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.flipkart.com",
+      "key": "snapshots/www.flipkart.com/flipkart_20250712_2142.html",
+      "filename": "flipkart_20250712_2142.html",
+      "status_code": 200,
+      "timestamp": "2025-07-12T21:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.flipkart.com",
+      "key": "snapshots/www.flipkart.com/flipkart_20250712_0942.html",
+      "filename": "flipkart_20250712_0942.html",
+      "status_code": 200,
+      "timestamp": "2025-07-12T09:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.github.com",
+      "key": "snapshots/www.github.com/github_20250714_0942.html",
+      "filename": "github_20250714_0942.html",
+      "status_code": 200,
+      "timestamp": "2025-07-14T09:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.github.com",
+      "key": "snapshots/www.github.com/github_20250714_0907.html",
+      "filename": "github_20250714_0907.html",
+      "status_code": 404,
+      "timestamp": "2025-07-14T09:07:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.github.com",
+      "key": "snapshots/www.github.com/github_20250714_0742.html",
+      "filename": "github_20250714_0742.html",
+      "status_code": 404,
+      "timestamp": "2025-07-14T07:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.github.com",
+      "key": "snapshots/www.github.com/github_20250714_0142.html",
+      "filename": "github_20250714_0142.html",
+      "status_code": 200,
+      "timestamp": "2025-07-14T01:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.github.com",
+      "key": "snapshots/www.github.com/github_20250713_1542.html",
+      "filename": "github_20250713_1542.html",
+      "status_code": 404,
+      "timestamp": "2025-07-13T15:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.github.com",
+      "key": "snapshots/www.github.com/github_20250713_0942.html",
+      "filename": "github_20250713_0942.html",
+      "status_code": 200,
+      "timestamp": "2025-07-13T09:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.github.com",
+      "key": "snapshots/www.github.com/github_20250712_2142.html",
+      "filename": "github_20250712_2142.html",
+      "status_code": 200,
+      "timestamp": "2025-07-12T21:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.github.com",
+      "key": "snapshots/www.github.com/github_20250712_0942.html",
+      "filename": "github_20250712_0942.html",
+      "status_code": 200,
+      "timestamp": "2025-07-12T09:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.stackoverflow.com",
+      "key": "snapshots/www.stackoverflow.com/soflow_20250714_0942.html",
+      "filename": "soflow_20250714_0942.html",
+      "status_code": 0,
+      "timestamp": "2025-07-14T09:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.stackoverflow.com",
+      "key": "snapshots/www.stackoverflow.com/soflow_20250714_0902.html",
+      "filename": "soflow_20250714_0902.html",
+      "status_code": 0,
+      "timestamp": "2025-07-14T09:02:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.stackoverflow.com",
+      "key": "snapshots/www.stackoverflow.com/soflow_20250714_0542.html",
+      "filename": "soflow_20250714_0542.html",
+      "status_code": 403,
+      "timestamp": "2025-07-14T05:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.stackoverflow.com",
+      "key": "snapshots/www.stackoverflow.com/soflow_20250714_0142.html",
+      "filename": "soflow_20250714_0142.html",
+      "status_code": 200,
+      "timestamp": "2025-07-14T01:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.stackoverflow.com",
+      "key": "snapshots/www.stackoverflow.com/soflow_20250713_1342.html",
+      "filename": "soflow_20250713_1342.html",
+      "status_code": 0,
+      "timestamp": "2025-07-13T13:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.stackoverflow.com",
+      "key": "snapshots/www.stackoverflow.com/soflow_20250713_0942.html",
+      "filename": "soflow_20250713_0942.html",
+      "status_code": 200,
+      "timestamp": "2025-07-13T09:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.stackoverflow.com",
+      "key": "snapshots/www.stackoverflow.com/soflow_20250712_2142.html",
+      "filename": "soflow_20250712_2142.html",
+      "status_code": 200,
+      "timestamp": "2025-07-12T21:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.stackoverflow.com",
+      "key": "snapshots/www.stackoverflow.com/soflow_20250712_0942.html",
+      "filename": "soflow_20250712_0942.html",
+      "status_code": 200,
+      "timestamp": "2025-07-12T09:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.wikipedia.org",
+      "key": "snapshots/www.wikipedia.org/wiki_20250714_0942.html",
+      "filename": "wiki_20250714_0942.html",
+      "status_code": 200,
+      "timestamp": "2025-07-14T09:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.wikipedia.org",
+      "key": "snapshots/www.wikipedia.org/wiki_20250714_0937.html",
+      "filename": "wiki_20250714_0937.html",
+      "status_code": 200,
+      "timestamp": "2025-07-14T09:37:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.wikipedia.org",
+      "key": "snapshots/www.wikipedia.org/wiki_20250714_0932.html",
+      "filename": "wiki_20250714_0932.html",
+      "status_code": 200,
+      "timestamp": "2025-07-14T09:32:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.wikipedia.org",
+      "key": "snapshots/www.wikipedia.org/wiki_20250714_0142.html",
+      "filename": "wiki_20250714_0142.html",
+      "status_code": 200,
+      "timestamp": "2025-07-14T01:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.wikipedia.org",
+      "key": "snapshots/www.wikipedia.org/wiki_20250713_2142.html",
+      "filename": "wiki_20250713_2142.html",
+      "status_code": 200,
+      "timestamp": "2025-07-13T21:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.wikipedia.org",
+      "key": "snapshots/www.wikipedia.org/wiki_20250713_0942.html",
+      "filename": "wiki_20250713_0942.html",
+      "status_code": 200,
+      "timestamp": "2025-07-13T09:42:00Z",
+      "checksum_match": true
+    },
+    {
+      "site": "https://www.wikipedia.org",
+      "key": "snapshots/www.wikipedia.org/wiki_20250712_2142.html",
+      "filename": "wiki_20250712_2142.html",
+      "status_code": 200,
+      "timestamp": "2025-07-12T21:42:00Z",
+      "checksum_match": true
+    }
+  ]
+}
